@@ -1,16 +1,16 @@
-### Hi there 👋
+### İLKAY KOYUNCUOĞLU 👋
 
-<!--
-**ilkaykoyuncuoglu/ilkaykoyuncuoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ilkaykoyuncuoglu**
 
-Here are some ideas to get you started:
+HAKKIMDA;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 DEU Lisans-> İstatistik. 
+- 🔭 DEU Yüksek Lisans -> İstatistik Anabilim Dalı - Veri Bilimi Programı
+- 👩🏽‍💻 R, Python, SPSS ve Latex üzerinde çalışmalar yapmaya devam ediyorum.
+- 🤔 İstatistik, makine öğrenme ve algoritmaları, zaman serisi, veri görselleştirme, veri işleme üzerine çalışıyorum.
+- 💬 Derin öğrenme, yapay zeka konularını öğrenme konusunda çalışıyorum.
+- 📫 ilkay.koyuncuoglu@gmail.com ile ya da https://medium.com/@ilkaykoyuncuoglu ile bana ulaşabilirsiniz.
+- 🎙️ 🚴🏽‍♀️ ✍🏽 Müzik ile ileri seviye bir ilişkimiz var. Bisiklet sürmeyi ve yazı yazmayı çok severim. 
+- 👩🏽‍🏭 Çalışmalarıma veya yazılarıma https://medium.com/@ilkaykoyuncuoglu şuradan ulaşabilirsiniz.
+- Ek olarak EXCEL, Web tasarım gibi konularda bilgi sahibiyim.
+- 🆘 Bir şey danışmaktan çekinmeyin.
