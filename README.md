@@ -1,8 +1,6 @@
 ### İLKAY KOYUNCUOĞLU 👋
 
-**ilkaykoyuncuoglu**
-
-HAKKIMDA;
+## HAKKIMDA;
 
 - 🔭 DEU Lisans-> İstatistik. 
 - 🔭 DEU Yüksek Lisans -> İstatistik Anabilim Dalı - Veri Bilimi Programı
