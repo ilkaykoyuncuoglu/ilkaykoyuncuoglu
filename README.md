@@ -2,7 +2,7 @@
 
 ## HAKKIMDA;
 
-- 🔭 DEU Lisans-> İstatistik. 
+- 🔭 DEU Lisans -> İstatistik. 
 - 🔭 DEU Yüksek Lisans -> İstatistik Anabilim Dalı - Veri Bilimi Programı
 - 👩🏽‍💻 R, Python, SQL, SPSS ve Latex üzerinde çalışmalar yapmaya devam ediyorum.
 - 🤔 İstatistik, makine öğrenme ve algoritmaları, zaman serisi, veri görselleştirme, veri işleme üzerine çalışıyorum.
