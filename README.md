@@ -34,7 +34,7 @@ In addition, I have knowledge on subjects such as EXCEL and Web design.
 </a>
 
 
-🟠
+or
 
 
 <a href="https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/" target="_blank">
