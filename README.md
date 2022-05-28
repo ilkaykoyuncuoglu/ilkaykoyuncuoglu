@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlkay Koyuncuoğlu</h1>
 <h3 align="center">I am a master student at Dokuz Eylul University</h3>
 
-<p align="left"> <a href="https://medium.com/@ilkaykoyuncuoglu" target="blank"><img alt="ilkaykoyuncuoglu" /></a> </p>
+<p align="left"> <a href="https://medium.com/@ilkaykoyuncuoglu" target="blank"><img src="https://medium.com/@ilkaykoyuncuoglu" alt="ilkaykoyuncuoglu" /></a> </p>
 
 - 🔭 I’m currently working on **my master thesis**
 
