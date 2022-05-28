@@ -27,14 +27,11 @@ In addition, I have knowledge on subjects such as EXCEL and Web design.
 
 📫 You can contact me via ilkay.koyuncuoglu@gmail.com 
 
-🟠
 
 <a style= "padding-left: 50px" href="https://ilkaykoyuncuoglu.medium.com/" target="_blank">
   <img align="left" src="https://user-images.githubusercontent.com/70684994/156036055-9f9e46ab-5a09-415a-8f70-cea5c27832a6.png" alt="ilkaykoyuncuoglu" height="70" width="150" />
 </a>
 
-
-or
 
 
 <a href="https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/" target="_blank">
