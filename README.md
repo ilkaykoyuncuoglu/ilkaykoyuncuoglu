@@ -1,14 +1,15 @@
 # İLKAY KOYUNCUOĞLU 👋
 
-## HAKKIMDA;
 
-- 🔭 DEU Lisans -> İstatistik. 
-- 🔭 DEU Yüksek Lisans -> İstatistik Anabilim Dalı - Veri Bilimi Programı
-- 👩🏽‍💻 R, Python, SQL, SPSS ve Latex üzerinde çalışmalar yapmaya devam ediyorum.
-- 🤔 İstatistik, makine öğrenme ve algoritmaları, zaman serisi, veri görselleştirme, veri işleme üzerine çalışıyorum.
-- 💬 Derin öğrenme, yapay zeka konularını öğrenme konusunda çalışıyorum.
-- 📫 ilkay.koyuncuoglu@gmail.com ile ya da https://medium.com/@ilkaykoyuncuoglu ile bana ulaşabilirsiniz.
-- 🎙️ 🚴🏽‍♀️ ✍🏽 Müzik ile ileri seviye bir ilişkimiz var. Bisiklet sürmeyi ve yazı yazmayı çok severim. 
-- 👩🏽‍🏭 Çalışmalarıma veya yazılarıma https://medium.com/@ilkaykoyuncuoglu şuradan ulaşabilirsiniz.
-- Ek olarak EXCEL, Web tasarım gibi konularda bilgi sahibiyim.
-- 🆘 Bir şey danışmaktan çekinmeyin.
+**ABOUT ME;**
+
+🔭 DEU Bc of Science -> Statistics.
+🔭 DEU MSc -> Department of Statistics - Data Science Program
+👩🏽‍💻 I continue to work on R, Python, SQL, SPSS and Latex.
+🤔 I work on statistics, machine learning and algorithms, time series, data visualization, data processing.
+💬 I am working on learning deep learning and artificial intelligence.
+📫 You can contact me via ilkay.koyuncuoglu@gmail.com or https://medium.com/@ilkaykoyuncuoglu.
+🎙️ 🚴🏽‍♀️ ✍🏽 We have an advanced relationship with music. I love cycling and writing.
+👩🏽‍🏭 You can reach my works or articles at https://medium.com/@ilkaykoyuncuoglu.
+In addition, I have knowledge on subjects such as EXCEL and Web design.
+🆘 Feel free to consult anything.
