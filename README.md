@@ -25,7 +25,7 @@ In addition, I have knowledge on subjects such as EXCEL and Web design.
 
 🆘 Feel free to consult anything.
 
-📫 You can contact me via ilkay.koyuncuoglu@gmail.com 
+📫 You can contact me via ilkay.koyuncuoglu@gmail.com.
 
 
 <a style= "padding-left: 50px" href="https://ilkaykoyuncuoglu.medium.com/" target="_blank">
