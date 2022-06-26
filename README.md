@@ -6,7 +6,7 @@
    <img src="https://profile-counter.glitch.me/ilkaykoyuncuoglu/count.svg" />
 </p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=nurcanNT&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=ilkaykoyuncuoglu&style=flat&color=orange&label=PROFILE+VIEWS)
 
 **ABOUT ME;**
 
