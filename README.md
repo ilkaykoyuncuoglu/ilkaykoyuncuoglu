@@ -35,8 +35,8 @@
 
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-FFD43B?style=flat&logo=r&logoColor=important)
-![SPSS](https://img.shields.io/badge/SPSS-FFD43B?style=flat&logo=spss&logoColor=F7DF1E)
+![SPSS](https://img.shields.io/badge/SPSS-FFD43B?style=flat&logo=spss&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/EXCEL-FFD43B?style=flat&logo=excel&logoColor=white)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
