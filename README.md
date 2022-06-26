@@ -31,8 +31,12 @@
 - 📫 You can contact me via ilkay.koyuncuoglu@gmail.com.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/)
 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![R](https://img.shields.io/badge/R-FFD43B?style=flat&logo=r&logoColor=important)
+![SPSS](https://img.shields.io/badge/SPSS-FFD43B?style=flat&logo=spss&logoColor=F7DF1E)
+![EXCEL](https://img.shields.io/badge/EXCEL-FFD43B?style=flat&logo=excel&logoColor=white)
 
