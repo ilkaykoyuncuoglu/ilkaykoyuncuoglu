@@ -35,6 +35,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/70684994/156036055-9f9e46ab-5a09-415a-8f70-cea5c27832a6.png" alt="ilkaykoyuncuoglu" height="70" width="150" />
 </a>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/)
 
 
 <a href="https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/" target="_blank">
