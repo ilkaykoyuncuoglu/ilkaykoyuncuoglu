@@ -31,10 +31,7 @@
 - 📫 You can contact me via ilkay.koyuncuoglu@gmail.com.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/)
-
-
-<a href="https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/" target="_blank">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/) <a href="https://www.linkedin.com/in/ilkay-koyuncuoglu-60b491105/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkaykoyuncuoglu" height="40" width="40" />
 </a>
 
