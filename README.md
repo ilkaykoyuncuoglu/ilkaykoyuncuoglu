@@ -31,10 +31,6 @@
 - 📫 You can contact me via ilkay.koyuncuoglu@gmail.com.
 
 
-<a style= "padding-left: 50px" href="https://ilkaykoyuncuoglu.medium.com/" target="_blank">
-  <img align="left" src="https://user-images.githubusercontent.com/70684994/156036055-9f9e46ab-5a09-415a-8f70-cea5c27832a6.png" alt="ilkaykoyuncuoglu" height="70" width="150" />
-</a>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='linkedin' height='40'>](https://ilkaykoyuncuoglu.medium.com/)
 
 
