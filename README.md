@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-   <img src="https://profile-counter.glitch.me/nurcanNT/count.svg" />
+   <img src="https://profile-counter.glitch.me/ilkaykoyuncuoglu/count.svg" />
 </p>
 
 **ABOUT ME;**
