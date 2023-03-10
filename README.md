@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm İlkay Koyuncuoğlu</h1>
-<h3 align="center">I am a master student at Dokuz Eylul University</h3>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ilkaykoyuncuoglu&style=flat&color=orange&label=PROFILE+VIEWS)
