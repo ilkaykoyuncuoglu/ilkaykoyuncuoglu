@@ -11,13 +11,13 @@
 
 - 🔭 DEU MSc -> Department of Statistics - Data Science Program
 
-- 👩🏽‍💻 I continue to work on R, Python, SQL, SPSS and Latex.
+- 👩🏽‍💻 I continue to work on R, Python, C#, SQL, SPSS and Latex.
 
 - 🤔 I work on statistics, machine learning and algorithms, time series, data visualization, data processing.
 
 - 💬 I am working on learning deep learning and artificial intelligence.
 
-- 🎙️ 🚴🏽‍♀️ ✍🏽 We have an advanced relationship with music. I love cycling and writing.
+- 🎙️ 🚴🏽‍♀️ ✍🏽 We have an advanced relationship with music. I love cycling, charcoal drawing and writing.
 
 - 👩🏽‍🏭 You can reach my works or articles at https://medium.com/@ilkaykoyuncuoglu.
 
@@ -41,3 +41,4 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![C#](https://img.shields.io/badge/-c#-181717?style=for-the-badge&logo=github)
